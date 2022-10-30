@@ -1,3 +1,3 @@
-#print("Its Single Line Comments")
+# Its single comment
 
 print("Cheers, Mate!")
