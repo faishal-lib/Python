@@ -1,8 +1,4 @@
-def packet1():
-    print ("Anda memilih Packet 1")
-
-def packet2():
-    print ("Anda memilih Packet 2")
+from function_list import *
 
 select = int(input("Choose Number : "))
 
