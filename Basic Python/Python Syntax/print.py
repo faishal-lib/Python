@@ -1,2 +1,2 @@
-# Print a string
+# Print a string or Text
 print ("Hello Mate")
