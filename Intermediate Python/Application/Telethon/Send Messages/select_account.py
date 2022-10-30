@@ -6,6 +6,7 @@ if select == 1 :
     packet1()
 
 elif select == 2 :
+    packet1()
     packet2()
 
 else :
