@@ -1,4 +1,4 @@
-# Use single line model if just have 1 condition
+# Use single line model if just have 1 condition (optional)
 
 a = 52
 b = 24
